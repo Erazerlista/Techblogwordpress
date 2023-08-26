@@ -42,6 +42,16 @@ THEN I am signed out of the site
 WHEN I am idle on the site for more than a set time
 THEN I am able to view posts and comments but I am prompted to log in again before I can add, update, or delete posts
 
+main needs: homepage, Nav, sign up or sign in, leave a comment/post and dashboard.
+
 # LINKS
 
 https://materializecss.com/getting-started.html -css
+https://developer.mozilla.org/en-US/docs/Web/ -js
+Project 2
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Node_server_without_framework - server.js ref + project 2
+
+# USE
+
+Debug for backend
+materialize for CSS
