@@ -1,0 +1,17 @@
+[
+    {
+        "contents": "Harry Potter is a wizard",
+        "user_id": "3",
+        "post_id": "1"
+    },
+    {
+        "contents": "Harry Potter is a 7 book series",
+        "user_id": "2",
+        "post_id": "2"
+    },
+    {
+        "contents": "Harry Potter has 8 films",
+        "user_id": "1",
+        "post_id": "3"
+    }
+]

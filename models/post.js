@@ -22,7 +22,6 @@ Post.init (
             type: DataTypes.TEXT,
             allowNull: false,
             validate: {
-                // Ensures comments are at least 6 characters long, but no longer than 1,500
                 len: [5, 1501]
             }
         },

@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "contents": "The book is about 11 year old Harry Potter, who receives a letter saying that he is invited to attend Hogwarts, school of witchcraft and wizardry.",
+        "user_id": "1"
+    },
+    {
+        "title": "Harry Potter and the Chamber of Secrets",
+        "contents": "The plot follows Harry's second year at Hogwarts School of Witchcraft and Wizardry, during which a series of messages on the walls of the school's corridors warn that the chamber of secrets has been opened",
+        "user_id": "2"
+    },
+    {
+        "title": "Harry Potter and the Prisoner of Azkaban",
+        "contents": "The book follows Harry Potter, a young wizard, in his third year at Hogwarts School of Witchcraft and Wizardry.",
+        "user_id": "3"
+    }
+]
