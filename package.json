@@ -2,18 +2,20 @@
   "dependencies": {
     "bcrypt": "^5.1.1",
     "connect-session-sequelize": "^7.1.7",
+    "debug": "^4.3.4",
     "dotenv": "^16.3.1",
     "express": "^4.17.1",
     "express-handlebars": "^7.1.2",
     "express-session": "^1.17.3",
     "materialize-css": "^1.0.0-rc.2",
-    "mysql2": "^3.6.0",
+    "mysql2": "^3.6.1",
     "sequelize": "^6.32.1",
     "sqlite3": "^5.1.6"
   },
   "scripts": {
     "start": "node server.js",
-    "seed": "node seeds.js"
+    "seed": "node seeds/seeds.js"
+    
   },
   "devDependencies": {
     "eslint-config-prettier": "^9.0.0",
